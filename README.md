@@ -16,4 +16,4 @@
 
 
 </div>
-![Snake animation](https://github.com/JeanVBA/Natanalpe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeanVBA/blob/output/github-contribution-grid-snake.svg)
