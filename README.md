@@ -1,5 +1,5 @@
 <div>
-        <a href="https://github.com/JeanVBA%22%3E"/>
+        <a href="https://github.com/JeanVBA"/>
         <img src="https://github-readme-stats.vercel.app/api?username=JeanVBA&show_icons=true&text_color=ffffff&bg_color=DEG,0C0032,1a0061,1a0061,0C0032&title_color=ffffff&border_color=0C0032&locale=pt-br&border_radius=15&include_all_commits=true&count_private=true&line_height=25&custom_title=Jean Victor"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVBA&text_color=ffffff&bg_color=DEG,0C0032,1a0061,1a0061,0C0032&title_color=ffffff&border_color=0C0032&locale=pt-br&border_radius=15&card_width=495%22%3E"/>
  
